@@ -1,0 +1,14 @@
+{
+    "name": "com.example.hyperlink_tracker",
+    "description": "Hyperlink Tracker Native Messaging Host",
+    "path": "C:\\Users\\91703\\Dropbox\\PC\\Desktop\\hyperlink_tracker.py",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://<your-extension-id>/"
+    ]
+  }
+  
+  
+
+
+  
